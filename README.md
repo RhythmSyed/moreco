@@ -1,5 +1,5 @@
 # moreco
-Data &amp; Visual Analytics Group Project
+Moreco: A Tag-Based Movie Recommendation System
 
 <a href="https://moreco-app.herokuapp.com"><img src="./imgs/screenshot.png" align="center" width="700" ></a>
 
